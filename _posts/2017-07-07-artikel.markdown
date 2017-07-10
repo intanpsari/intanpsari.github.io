@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Javascript"
+date:   2017-07-07 17:15:55 +0700
+categories: jekyll update
+gambar : https://www.javatpoint.com/images/javascript/javascript_logo.png
+---
+
+# Why Study Javascript?
+    1. HTML to define the content of web pages
+    2. CSS to specify the layout of web pages
+    3. JavaScript to program the behavior of web pages
+
+Did You Know?
+`JavaScript` and `Java` are completely different languages, both in concept and design.
+
+JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+`ECMA-262` is the official name of the standard. `ECMAScript` is the official name of the language.
+
+You can read more about the different JavaScript versions in the chapter [JS Versions](https://www.w3schools.com/js/js_versions.asp).
+
+![my photo](https://www.javatpoint.com/images/javascript/javascript_logo.png)
+
+```
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+```

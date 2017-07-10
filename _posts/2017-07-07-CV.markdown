@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "CV"
+date:   2017-07-07 17:15:55 +0700
+categories: jekyll update
+gambar : https://scontent.fcgk9-1.fna.fbcdn.net/v/t1.0-9/13939367_10207448710315942_4586065202413628789_n.jpg?oh=dca415ef1a8fdf9adad86b7b49862bda&oe=59FC7AEA
+---
+
+
+
+    Nama		: Intan Permatasari
+    Tempat Lahir	: Cirebon
+    Tanggal Lahir	: 8 Maret 1994
+    Jenis Kelamin 	: Perempuan
+
+# Pendidikan
+    Pendidikan Ilmu Komputer UPI
+
+# Pelatihan
+    1. Junior Web Programming BPPTIK
+    2. MySQL dan Framefwork Codeigniter di UPI
+    3. Android Studio Basic
+

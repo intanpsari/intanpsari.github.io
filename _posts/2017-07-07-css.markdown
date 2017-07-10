@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "CSS"
+date:   2017-07-07 17:15:55 +0700
+categories: jekyll update
+gambar : https://content.linkedin.com/content/dam/me/learning/blog/2016/september/CSS.jpg
+---
+
+# Why Study CSS?
+    1. CSS is a language that describes the style of an HTML document.
+    2. CSS describes how HTML elements should be displayed.
+    3. This tutorial will teach you CSS from basic to advanced.
+
+# What Is CSS?
+    1. CSS stands for Cascading Style Sheets
+    2. CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+    3. CSS saves a lot of work. It can control the layout of multiple web pages all at once
+    4. External stylesheets are stored in CSS files
+
+
+![my photo](https://content.linkedin.com/content/dam/me/learning/blog/2016/september/CSS.jpg)
+
+```
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+```

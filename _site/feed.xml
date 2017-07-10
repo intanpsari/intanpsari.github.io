@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-10T07:04:53+07:00</updated><id>http://localhost:4000/</id><title type="html">Home</title><subtitle>intan website
+</subtitle><entry><title type="html">HTML</title><link href="http://localhost:4000/jekyll/update/2017/07/07/html.html" rel="alternate" type="text/html" title="HTML" /><published>2017-07-07T17:15:55+07:00</published><updated>2017-07-07T17:15:55+07:00</updated><id>http://localhost:4000/jekyll/update/2017/07/07/html</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/07/07/html.html">&lt;h1 id=&quot;why-study-html&quot;&gt;Why Study HTML?&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. With HTML you can create your own Web site.
+2. This tutorial teaches you everything about HTML.
+3. HTML is easy to learn - You will enjoy it.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;example-explained&quot;&gt;Example Explained&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;&lt;/code&gt; declaration defines this document to be HTML5&lt;/li&gt;
+  &lt;li&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;&lt;/code&gt; element is the root element of an HTML page&lt;/li&gt;
+  &lt;li&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt; element contains meta information about the document&lt;/li&gt;
+  &lt;li&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;title&amp;gt;&lt;/code&gt; element specifies a title for the document&lt;/li&gt;
+  &lt;li&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; element contains the visible page content&lt;/li&gt;
+  &lt;li&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; element defines a large heading&lt;/li&gt;
+  &lt;li&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt; element defines a paragraph&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png&quot; alt=&quot;my photo&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+		&lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Page Title&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+
+		&lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;This is a Heading&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+		&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;This is a paragraph.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Why Study HTML? 1. With HTML you can create your own Web site. 2. This tutorial teaches you everything about HTML. 3. HTML is easy to learn - You will enjoy it.</summary></entry><entry><title type="html">CSS</title><link href="http://localhost:4000/jekyll/update/2017/07/07/css.html" rel="alternate" type="text/html" title="CSS" /><published>2017-07-07T17:15:55+07:00</published><updated>2017-07-07T17:15:55+07:00</updated><id>http://localhost:4000/jekyll/update/2017/07/07/css</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/07/07/css.html">&lt;h1 id=&quot;why-study-css&quot;&gt;Why Study CSS?&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. CSS is a language that describes the style of an HTML document.
+2. CSS describes how HTML elements should be displayed.
+3. This tutorial will teach you CSS from basic to advanced.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;what-is-css&quot;&gt;What Is CSS?&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. CSS stands for Cascading Style Sheets
+2. CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+3. CSS saves a lot of work. It can control the layout of multiple web pages all at once
+4. External stylesheets are stored in CSS files
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://content.linkedin.com/content/dam/me/learning/blog/2016/september/CSS.jpg&quot; alt=&quot;my photo&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Why Study CSS? 1. CSS is a language that describes the style of an HTML document. 2. CSS describes how HTML elements should be displayed. 3. This tutorial will teach you CSS from basic to advanced.</summary></entry><entry><title type="html">Javascript</title><link href="http://localhost:4000/jekyll/update/2017/07/07/artikel.html" rel="alternate" type="text/html" title="Javascript" /><published>2017-07-07T17:15:55+07:00</published><updated>2017-07-07T17:15:55+07:00</updated><id>http://localhost:4000/jekyll/update/2017/07/07/artikel</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/07/07/artikel.html">&lt;h1 id=&quot;why-study-javascript&quot;&gt;Why Study Javascript?&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. HTML to define the content of web pages
+2. CSS to specify the layout of web pages
+3. JavaScript to program the behavior of web pages
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Did You Know?
+&lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Java&lt;/code&gt; are completely different languages, both in concept and design.&lt;/p&gt;
+
+&lt;p&gt;JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+&lt;code class=&quot;highlighter-rouge&quot;&gt;ECMA-262&lt;/code&gt; is the official name of the standard. &lt;code class=&quot;highlighter-rouge&quot;&gt;ECMAScript&lt;/code&gt; is the official name of the language.&lt;/p&gt;
+
+&lt;p&gt;You can read more about the different JavaScript versions in the chapter &lt;a href=&quot;https://www.w3schools.com/js/js_versions.asp&quot;&gt;JS Versions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.javatpoint.com/images/javascript/javascript_logo.png&quot; alt=&quot;my photo&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;script&amp;gt;
+document.getElementById(&quot;demo&quot;).innerHTML = &quot;Hello JavaScript!&quot;;
+&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Why Study Javascript? 1. HTML to define the content of web pages 2. CSS to specify the layout of web pages 3. JavaScript to program the behavior of web pages</summary></entry><entry><title type="html">CV</title><link href="http://localhost:4000/jekyll/update/2017/07/07/CV.html" rel="alternate" type="text/html" title="CV" /><published>2017-07-07T17:15:55+07:00</published><updated>2017-07-07T17:15:55+07:00</updated><id>http://localhost:4000/jekyll/update/2017/07/07/CV</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/07/07/CV.html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Nama		: Intan Permatasari
+Tempat Lahir	: Cirebon
+Tanggal Lahir	: 8 Maret 1994
+Jenis Kelamin 	: Perempuan
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;pendidikan&quot;&gt;Pendidikan&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Pendidikan Ilmu Komputer UPI
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;pelatihan&quot;&gt;Pelatihan&lt;/h1&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. Junior Web Programming BPPTIK
+2. MySQL dan Framefwork Codeigniter di UPI
+3. Android Studio Basic
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Nama : Intan Permatasari Tempat Lahir : Cirebon Tanggal Lahir : 8 Maret 1994 Jenis Kelamin : Perempuan</summary></entry></feed>
